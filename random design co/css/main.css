@@ -224,7 +224,12 @@ p {
     color:#ffffff;
 }
 
-
+.footer {
+    clear:both;
+    text-align: center;
+    padding: 1em;
+    font-size: 15pt;
+}
 
 
 
