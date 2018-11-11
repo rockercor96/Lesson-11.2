@@ -146,7 +146,6 @@ p {
 }
 
 .random {
-    background: hsla(0, 100%, 50%, 0, 0.25);
     position: relative;
     color: #ffffff;
 }
