@@ -186,10 +186,14 @@ p {
     display: inline-block;
 }
 
-.article {
-    position: relative;
+.random-content a:hover{
+    background-color: #ffffff;
+    color: #000000;
 }
 
+.article {
+    overflow: hidden;
+}
 
 .project {
     width: 50%;
